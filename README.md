@@ -1,6 +1,6 @@
-# New York Citi Bike Data Analysis
+# Tableau: Citi Bike Data Analysis
 
-## Challenge 18 overview
+## Overview
 
 Using data from the Citi Bike Data files, create a Tableau dashboard to interpret the data and provide insights.
 
