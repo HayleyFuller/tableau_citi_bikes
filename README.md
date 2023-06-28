@@ -37,7 +37,7 @@ This page shows a monthly overview of trips completed. The total number of trips
 
 •	More interestingly Saturday is the day which saw the lowest usage of trips at only 34, 411 compared to Wednesday at 47, 161.
 
-![plot](Images/Trips_per_month.png)
+![plot](Images/Trips_per_month.png)     ![plot](Images/Highest_trip_day_graph.png)
 
 **Note:** see dashboard for interactive visualisation.
 
@@ -61,6 +61,10 @@ This page shows an overview of starting points and end points of trips completed
 
 •	The above is consistent across all 4 months.
 
+![plot](Images/Map_city_points.png)
+
+**Note:** see dashboard for interactive visualisation.
+
 **City points top 10.**
 
 This page shows an overview of the top 10 starting points and end points of trips completed. The total number of trips in the 4-month period is 290, 975. Of these trips we can see the following…
@@ -68,6 +72,10 @@ This page shows an overview of the top 10 starting points and end points of trip
 •	This page follows on from the above and further shows that out of the top 10, the starting stations are outside of the city of New York Manhattan.
 
 •	The top starting station is Grove St Path taking 16.88% of the over all trip count. This is consistent within each month. 
+
+![plot](Images/Top_10.png)
+
+**Note:** see dashboard for interactive visualisation.
 
 **Conclusion**
 
