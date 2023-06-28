@@ -18,33 +18,47 @@ This combined CSV file was then uploaded into Tableau public to create a dashboa
 This page shows an overview of trips that people took. The total number of trips in the 4-month period is 290, 975. Of these trips we can see the following…
 
 •	72, 940 were trips completed by casual members compared with 218, 035 trips by members. These means that a majority of trips, 74.93% were completed by members.
+
 •	Of the overall trips 78.46% used classic bikes.
+
 •	These results vary between months, but the majority is always with members and classic bikes used.
 
-![plot](Images/Biketype.png)
+![plot](Images/Bike_type.png)          ![plot](Images/Member_type.png)
+
+**Note:** see dashboard for interactive visualisation.
 
 **Monthly overview**
 
 This page shows a monthly overview of trips completed. The total number of trips in the 4-month period is 290, 975. Of these trips we can see the following…
 
 •	May was the month that most trips were taken. This is a steady increase from February. This could indicate that the trips would continue to rise as the warmer months begin.
+
 •	Interestingly the day in which saw the greater number of trips is Wednesday. This could indicate a pattern in people’s habits as the week progresses. 
+
 •	More interestingly Saturday is the day which saw the lowest usage of trips at only 34, 411 compared to Wednesday at 47, 161.
 
-INSERT IMAGE
+![plot](Images/Trips_per_month.png)
+
+**Note:** see dashboard for interactive visualisation.
 
 **Daily overview**
 
 This page shows a daily overview of trips completed. The total number of trips in the 4-month period is 290, 975. Of these trips we can see the following…
 
-•	Following on from above, we can see that Saturday and Sunday provide the lowest number of trips. 
+•	Following on from above, we can see that Saturday and Sunday provide the lowest number of trips.
+
 •	What we can see from the trips taken on weekdays is that they all follow a pattern of when during the day are its peak hours. On all these weekdays the peak hours are 08:00 and 18:00. This could suggest people are using them on their commute to and from work.
+
+![plot](Images/Hour_of_day.png)
+
+**Note:** see dashboard for interactive visualisation.
 
 **City points overview**
 
 This page shows an overview of starting points and end points of trips completed. The total number of trips in the 4-month period is 290, 975. Of these trips we can see the following…
 
 •	A large cluster of starting points are outside of the main city of New York Manhattan, with the end points in the city of New York Manhattan. This could further indicate that the Citi Bikes are being used by commuters.
+
 •	The above is consistent across all 4 months.
 
 **City points top 10.**
@@ -52,6 +66,7 @@ This page shows an overview of starting points and end points of trips completed
 This page shows an overview of the top 10 starting points and end points of trips completed. The total number of trips in the 4-month period is 290, 975. Of these trips we can see the following…
 
 •	This page follows on from the above and further shows that out of the top 10, the starting stations are outside of the city of New York Manhattan.
+
 •	The top starting station is Grove St Path taking 16.88% of the over all trip count. This is consistent within each month. 
 
 **Conclusion**
