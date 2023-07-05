@@ -4,7 +4,7 @@
 
 Using data from the Citi Bike Data files, create a Tableau dashboard to interpret the data and provide insights.
 
-[Link to Tableau Dashboard]([(https://public.tableau.com/app/profile/hayley.fuller/viz/NewYorkCitiBikeDataDashboard/Story1)]
+[Link to Tableau Dashboard]([https://public.tableau.com/app/profile/hayley.fuller/viz/NewYorkCitiBikeDataDashboard/Story1])
 
 ## Data Cleaning
 All data sets from Citi Bike Data are CSV files separated into individual months and downloaded 4 months of data, from February 2023 to May 2023.
